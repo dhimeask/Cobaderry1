@@ -18,8 +18,9 @@ public class Cobaderry1 {
         // TODO code application logic here
         
         System.out.println("cobaderry1.Cobaderry1.main()");
-        System.out.println("COBA PERUBAHAN1 ()");
+        System.out.println("COBA PERUBAHAN 1()");
         System.out.println("COBA PERUBAHAN 2()");
+        System.out.println("COBA PERUBAHAN 3()");
     }
    
   
